@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    background-color: black;
+    color: red;
+    text-align: center;
+
+    
+}
+
+h1 {
+    border: 1px dashed red;
+    color: yellow;
+    text-align: center;
+    width: 90%;
+    letter-spacing: 1rem;
+    margin: 5% auto;
+}
+.answer1{
+    background-color: white;
+    text-align: center;
+    
+
+}
+
+.answer2{
+    background-color: white;
+    text-align: center;
+
+}
+
+.answer3{
+    background-color: white;
+    text-align: center;
+
+}
+
+.answer4{
+    background-color: white;
+    text-align: center;
+    
+
+}
+
+.Valider{
+    color: white;
+    box-sizing: 20px;
+
+}
+
+.reponses{
+    color: white;
+    text-align: center;
+}
+
+input{
+    height: 20px;
+    margin: 70px;
+    box-sizing: 20px;
+
+}
